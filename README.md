@@ -1,5 +1,5 @@
 # Olá 👋
-  Meu nome é Thiago Cássio de Freitas Maia, sou desenvolvedor **Full Stack**, estudante da [@cubosacademy](https://www.cubos.academy), graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela [@Uniasselvi](https://portal.uniasselvi.com.br) e atualmente estou em transição de carreira para a áraa de tecnologia.
+  Meu nome é Thiago Cássio de Freitas Maia, sou desenvolvedor **Full Stack**, estudante da [@cubosacademy](https://www.cubos.academy) e da [onebitcode](https://www.onebitcode.com), graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela [@Uniasselvi](https://portal.uniasselvi.com.br) e atualmente estou em transição de carreira para a áraa de tecnologia.
 
 ## 🧑‍🤝‍🧑 Redes sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-cássio-de-freitas-maia-354414165)
