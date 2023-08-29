@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokcio&theme=tokyonight&custom_title=Linguagens%20%mais%20%usadas)
 
-> One Step, Every Day
+> One Step, Every Day </>
 
 
 
